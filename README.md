@@ -28,17 +28,17 @@ Feel free to explore my repositories for more projects!
 - Instagram: [Othman.is.me](https://twitter.com/your-twitter-handle](https://www.instagram.com/othman.is.me/))
 
 ## 🔧 Skills :
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/JavaScript-logo.png)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
-![Skill](./images-skills/download.jpg)
+![Skill](./images-skills/download.jpg){:height="100px"}
+![Skill](./images-skills/JavaScript-logo.png){:height="100px"}
+![Skill](./images-skills/bootstrap-5-logo-icon){:height="100px"}
+![Skill](./images-skills/1280px-Sass_Logo_Color.svg){:height="100px"}
+![Skill](./images-skills/tailwind-css3232.logowik.com){:height="100px"}
+![Skill](./images-skills/download.jpg){:height="100px"}
+![Skill](./images-skills/download.jpg){:height="100px"}
+![Skill](./images-skills/download.jpg){:height="100px"}
+![Skill](./images-skills/download.jpg){:height="100px"}
+![Skill](./images-skills/download.jpg){:height="100px"}
+![Skill](./images-skills/download.jpg){:height="100px"}
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Happy coding! 🚀
 
