@@ -25,7 +25,7 @@ Feel free to explore my repositories for more projects!
 ## 📫 Let's Connect
 
 - LinkedIn: [Othman Kharbouch](https://www.linkedin.com/in/othman-kharbouch/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- Instagram: [othman.is.me]([https://twitter.com/your-twitter-handle](https://www.instagram.com/othman.is.me/))
 
 ## 📸 Fun Stuff
 
