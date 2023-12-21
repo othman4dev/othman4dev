@@ -34,11 +34,11 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/othmankharbouch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/othmankharbouch" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othman4dev&show_icons=true&locale=en&layout=compact" alt="othman4dev" /></p>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othman4dev&show_icons=true&locale=en" alt="othman4dev" /></p>
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othman4dev&show_icons=true&locale=en" alt="othman4dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=othman4dev&" alt="othman4dev" /></p>
 
