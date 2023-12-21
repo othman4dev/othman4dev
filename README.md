@@ -40,7 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othman4dev&show_icons=true&locale=en" alt="othman4dev" /></p>
 
-<br><br><br><br>
 <br><br>
 
 
