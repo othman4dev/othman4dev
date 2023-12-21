@@ -34,6 +34,7 @@ Feel free to explore my repositories for more projects!
 ![Skill](./images-skills/1280px-Sass_Logo_Color.svg){:height="100px"}
 ![Skill](./images-skills/tailwind-css3232.logowik.com){:height="100px"}
 ![Skill](./images-skills/download.jpg){:height="100px"}
+<img src="./images-skills/JavaScript-logo.png" alt="Alt text" width="300" height="200">
 ![Skill](./images-skills/download.jpg){:height="100px"}
 ![Skill](./images-skills/download.jpg){:height="100px"}
 ![Skill](./images-skills/download.jpg){:height="100px"}
