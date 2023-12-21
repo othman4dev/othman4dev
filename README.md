@@ -31,11 +31,11 @@ Feel free to explore my repositories for more projects!
 
 Here's a snapshot of my coding setup:
 
-![Coding Setup]([mysetup.jpg])
+![Coding Setup]([/mysetup.jpg])
 
 And here's a meme that all developers can relate to:
 
-![Developer Meme]([favoritememe.avif])
+![Developer Meme]([/favoritememe.avif])
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Happy coding! 🚀
 
