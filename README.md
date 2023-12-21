@@ -27,15 +27,5 @@ Feel free to explore my repositories for more projects!
 - LinkedIn: [Othman Kharbouch](https://www.linkedin.com/in/othman-kharbouch/](https://www.linkedin.com/in/othman-kharbouch-ba44552a1/))
 - Instagram: [Othman.is.me](https://twitter.com/your-twitter-handle](https://www.instagram.com/othman.is.me/))
 
-## 📸 Fun Stuff
-
-Here's a snapshot of my coding setup:
-
-![Coding Setup]([/mysetup.jpg])
-
-And here's a meme that all developers can relate to:
-
-![Developer Meme]([/favoritememe.avif])
-
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Happy coding! 🚀
 
