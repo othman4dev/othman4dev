@@ -35,7 +35,7 @@ Here's a snapshot of my coding setup:
 
 And here's a meme that all developers can relate to:
 
-![Developer Meme]([favoritememe.jpg])
+![Developer Meme]([favoritememe.avif])
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Happy coding! 🚀
 
