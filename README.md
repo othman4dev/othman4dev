@@ -13,8 +13,8 @@ I'm a passionate Full-Stack Web Developer from Morocco 🌍, ready to turn innov
 
 ## 🚀 Projects
 
-- [Project 1](link-to-project-1): Brief description.
-- [Project 2](link-to-project-2): Brief description.
+- [Fake-Socials]([Fake-Socials](https://github.com/othman4dev/Fake-Socials)): This website provides users with the capability to engage in customized conversations with anyone across various platforms and social media channels.
+- [Quizix]([Quizix](https://github.com/othman4dev/Quizix)): This website empowers users with the ability to take quizzes and access courses. Administrators, on the other hand, are equipped to add courses and quizzes while also tracking users' progress, status, and results.
 
 Feel free to explore my repositories for more projects!
 
