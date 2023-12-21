@@ -29,17 +29,15 @@ Feel free to explore my repositories for more projects!
 
 ## 🔧 Skills :
 ![Skill](./images-skills/download.jpg){:height="100px"}
+<img src="./images-skills/download.jpg" alt="Alt text" height="100">
 ![Skill](./images-skills/JavaScript-logo.png){:height="100px"}
+<img src="./images-skills/JavaScript-logo.png" alt="Alt text" height="100">
 ![Skill](./images-skills/bootstrap-5-logo-icon){:height="100px"}
+<img src="./images-skills/bootstrap-5-logo-icon" alt="Alt text" height="100">
 ![Skill](./images-skills/1280px-Sass_Logo_Color.svg){:height="100px"}
+<img src="./images-skills/1280px-Sass_Logo_Color.svg" alt="Alt text" height="100">
 ![Skill](./images-skills/tailwind-css3232.logowik.com){:height="100px"}
-![Skill](./images-skills/download.jpg){:height="100px"}
-<img src="./images-skills/JavaScript-logo.png" alt="Alt text" width="300" height="200">
-![Skill](./images-skills/download.jpg){:height="100px"}
-![Skill](./images-skills/download.jpg){:height="100px"}
-![Skill](./images-skills/download.jpg){:height="100px"}
-![Skill](./images-skills/download.jpg){:height="100px"}
-![Skill](./images-skills/download.jpg){:height="100px"}
+<img src="./images-skills/tailwind-css3232.logowik.com" alt="Alt text" height="100">
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Happy coding! 🚀
 
