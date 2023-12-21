@@ -31,11 +31,11 @@ Feel free to explore my repositories for more projects!
 
 Here's a snapshot of my coding setup:
 
-![Coding Setup]([https://i.pinimg.com/564x/0c/d1/c3/0cd1c3bcd34ee422d0ad3e3e36aa1e3f.jpg])
+![Coding Setup]([mysetup.jpg])
 
 And here's a meme that all developers can relate to:
 
-![Developer Meme]([https://cdn.hashnode.com/res/hashnode/image/upload/v1643691738537/AJ4UdaY0e.jpeg?auto=compress,format&format=webp])
+![Developer Meme]([favoritememe.jpg])
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Happy coding! 🚀
 
