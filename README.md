@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="1000" height="500"/>
 <h1 align="center">Hello There 👋, I'm Othman Kharbouch</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer from Morocco 🌍, ready to turn innovative ideas into reality. Welcome to my GitHub profile!</h3>
 
