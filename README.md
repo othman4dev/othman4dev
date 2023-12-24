@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="1000" height="500"/>
 <h1 align="center">Hello There 👋, I'm Othman Kharbouch</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer from Morocco 🌍, ready to turn innovative ideas into reality. Welcome to my GitHub profile!</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="200px"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othman4dev&label=Profile%20views&color=0e75b6&style=flat" alt="othman4dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=othman4dev" alt="othman4dev" /></a> </p>
