@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="1000" height="500"/>
-<h1 align="center">Hello There 👋, I'm Othman Kharbouch</h1>
+<h1 align="center">Hello There  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px" style="display:inline-block;">, I'm Othman Kharbouch</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer from Morocco 🌍, ready to turn innovative ideas into reality. Welcome to my GitHub profile!</h3>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000px"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othman4dev&label=Profile%20views&color=0e75b6&style=flat" alt="othman4dev" /> </p>
