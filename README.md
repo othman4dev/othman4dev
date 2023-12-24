@@ -33,7 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/othmankharbouch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/othmankharbouch" /></a></p><br><br><br>
-<div style="display:flex;align-items:center;justify-content:space-evenly;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othman4dev&show_icons=true&locale=en&layout=compact" alt="othman4dev" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=othman4dev&show_icons=true&locale=en" alt="othman4dev" /></div>
+<div style="display:flex;align-items:center;justify-content:space-evenly;"><img style="flex-grow:1" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othman4dev&show_icons=true&locale=en&layout=compact" alt="othman4dev" /><img style="flex-grow:1" align="center" src="https://github-readme-stats.vercel.app/api?username=othman4dev&show_icons=true&locale=en" alt="othman4dev" /></div>
 <br><br><br>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000px"><br>
 <h2 style="display:inline-block;">Thanks For Visiting</h2><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50px" style="display:inline-block;">
