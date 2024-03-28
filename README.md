@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Full-Stack Web Developer from Morocco 🌍, ready to turn innovative ideas into reality. Welcome to my GitHub profile!</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Fake-Socials<br><br>🌱 I’m currently learning Vue.js ,PHP Laravel, React.js...<br><br>👨‍💻 All of my projects are available at https://github.com/othman4dev/myworld/index.html<br><br>💬 Ask me about javaScript ,Git ,PHP.<br><br>📫 How to reach me otmankharbouch813@gmail.com<br><br>⚡ Fun fact I Love learning any thing that has something to do with a computer
+🔭 I’m currently working on Fake-Socials<br><br>🌱 I’m currently learning Vue.js ,PHP Laravel, React.js...<br><br>👨‍💻 All of my projects are available at https://otmankharbouch.live<br><br>💬 Ask me about javaScript ,Git ,PHP.<br><br>📫 How to reach me otmankharbouch813@gmail.com<br><br>⚡ Fun fact I Love learning any thing that has something to do with a computer
 
 
 ## 🌐 Socials:
