@@ -90,7 +90,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-# Commits Graph:
+# 📈 Commits Graph:
 
 <img class="commits-img" src="https://ghchart.rshah.org/othman4dev" alt="GitHub Contributions Graph" />
 <br>
@@ -106,9 +106,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=othman4dev&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Othman4dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
