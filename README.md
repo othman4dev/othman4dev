@@ -114,9 +114,9 @@
   <img src="https://ghchart.rshah.org/othman4dev" height="220" alt="GitHub Contributions Graph" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/"><img src="https://visitcount.itsvg.in/api?id=Othman4dev&icon=0&color=0" alt="Visitor Count" /></a>
-</p>
+<br>
+<br>
+<br>
 
 ---
 
