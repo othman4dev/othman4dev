@@ -111,7 +111,7 @@
 ### 📈 GitHub Commit Chart
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/othman4dev" height="220" alt="GitHub Contributions Graph" />
+  <img src="https://ghchart.rshah.org/othman4dev" style="height: 140px;" height="220" alt="GitHub Contributions Graph" />
 </p>
 
 <br>
