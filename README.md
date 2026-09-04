@@ -102,14 +102,16 @@
 
 <table>
   <tr>
-    <td><img height="150" src="https://github-readme-stats.shion.dev/api?username=othman4dev&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=othman4dev&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></td>
-    <td><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Othman4dev&theme=gotham&hide_border=true" alt="Streak Stats" /></td>
+    <td><img height="170" src="https://github-readme-stats.shion.dev/api?username=othman4dev&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=othman4dev&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></td>
+    <td><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Othman4dev&theme=gotham&hide_border=true" alt="Streak Stats" /></td>
   </tr>
 </table>
 
+### 📈 GitHub Commit Chart
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/othman4dev" alt="GitHub Contributions Graph" />
+  <img src="https://ghchart.rshah.org/othman4dev" height="220" alt="GitHub Contributions Graph" />
 </p>
 
 <p align="center">
