@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Othman4dev" width="140" style="border-radius: 50%;" alt="Otman Kharbouch" />
+  <img src="https://avatars.githubusercontent.com/Othman4dev" width="140" style="border-radius: 50%; overflow: hidden;" alt="Otman Kharbouch" />
 </p>
 
 <h1 align="center">Otman Kharbouch</h1>
